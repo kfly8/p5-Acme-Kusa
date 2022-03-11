@@ -1,4 +1,4 @@
-
+[![Actions Status](https://github.com/kfly8/p5-Acme-Kusa/workflows/test/badge.svg)](https://github.com/kfly8/p5-Acme-Kusa/actions) [![MetaCPAN Release](https://badge.fury.io/pl/Acme-Kusa.svg)](https://metacpan.org/release/Acme-Kusa)
 # NAME
 
 Acme::Kusa - For **grassy** programs
